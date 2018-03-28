@@ -22,4 +22,4 @@ some_knowledge = avi.teach
 end
 
 
-puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi.  He also learned this: #{steve.knowledge.second}"
+puts "Steve just learned this important knowledge: '#{steve.knowledge.first}' from Avi.  He also learned this: #{steve.knowledge.last}"
