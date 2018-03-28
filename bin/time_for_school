@@ -18,7 +18,6 @@ some_knowledge = avi.teach
 
 jim.learn(some_knowledge)
 
-puts "#{jim}"
 
 steve.learn(some_knowledge)
 
